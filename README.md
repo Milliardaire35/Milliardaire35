@@ -2,7 +2,7 @@
 
 ## À propos de moi
 
-Je suis un développeur web passionné, spécialisé en développement full stack avec une expertise polyvalente dans un large éventail de technologies.
+Je suis un développeur web passionné, spécialisé en développement web full stack avec une expertise polyvalente dans un large éventail de technologies.
 Avec un an d'expérience dans le domaine, j'ai acquis une solide compréhension des principes fondamentaux du développement web 
 et j'ai démontré ma capacité à créer des solutions innovantes et efficaces.
 
